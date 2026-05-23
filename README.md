@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Waqas:
-Artificial Intelligence student at COMSATS, Islamabad,<br>Building React Native apps to stay dangerously employable!<br>Currently Learning Game Development with Unity.
+Artificial Intelligence student at COMSATS, Islamabad,<br>Building Web/Mobile apps to stay dangerously employable!<br>Currently Learning Game Development with Unity.
 
 
 ## 🌐 Socials:
