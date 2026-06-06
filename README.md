@@ -1,5 +1,6 @@
 # 💫 Hi, I'm Waqas:
 Artificial Intelligence student at COMSATS, Islamabad,<br>Building Web/Mobile apps to stay dangerously employable!<br>Currently Learning Game Development with Unity.
+Check out my portfolio at [waqas.codes](https://waqas.codes/)
 
 
 ## 🌐 Socials:
