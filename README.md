@@ -4,7 +4,7 @@ Check out my portfolio at [waqas.codes](https://waqas.codes/)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/waqas.zafar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waqas75/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqaszafarkhan8198@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas75/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/waqas.zafar_/) [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/stranmous) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqaszafarkhan8198@gmail.com) 
 
 ## Tech Stack
 
